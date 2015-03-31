@@ -3,7 +3,7 @@
 ## Ingredients
 1. Bread
 2. Eggs
-3. 1 tsp vanilla
+3. 1 tsp cinnamon
 
 ## Instructions
 1. Whisk eggs
