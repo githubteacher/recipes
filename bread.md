@@ -1,12 +1,14 @@
-* 200 grams leaven
-* 700 grams warm water
-* 900 grams white-bread flour
-* 100 grams whole-wheat flour, plus more for dusting
-* 20 grams fine sea salt
-* 50 grams warm water
+# Tartine's Country Sourdough
 
----
+## Ingredients
+1. 200 grams leaven
+1. 700 grams warm water
+1. 900 grams white-bread flour
+1. 100 grams whole-wheat flour, plus more for dusting
+1. 20 grams fine sea salt
+1. 50 grams warm water
 
+## Directions
 1. Make the dough: In a large bowl, combine 200 grams of leaven with 700 grams of warm water and stir to disperse. (Reserve remaining leaven for future loaves; see note below.)
 
 2. Add 900 grams of white-bread flour and 100 grams of whole-wheat flour to bowl and use your hands to mix until no traces of dry flour remain. The dough will be sticky and ragged. Cover bowl with a towel and let dough rest for 25 to 40 minutes at room temperature.
